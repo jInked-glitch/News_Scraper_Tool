@@ -46,6 +46,12 @@ news_scraper/
 └── README.md
 ```
 
+## 📄 Sample Output
+
+[🔗 View sample CSV](./hacker_news_20250608.csv)
+
+
+
 ---
 
 ## 🧠 Learning Goals
