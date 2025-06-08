@@ -45,12 +45,11 @@ news_scraper/
 ├── news_YYYYMMDD.csv # Output CSV file (auto-generated)
 └── README.md
 ```
+---
 
 ## 📄 Sample Output
 
 [🔗 View sample CSV](./hacker_news_20250608.csv)
-
-
 
 ---
 
